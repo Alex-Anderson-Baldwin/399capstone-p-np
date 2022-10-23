@@ -37,7 +37,9 @@ py -m pip install flask
 py -m pip install python-dotenv
 Close the command prompt
 
-Now open the requirements.txt document and right click and select install all. (Or use pip 
+Now open the requirements.txt document and right click and select install all. (Or use pip)
+
+Alternatively, you can open the command promp with admin privileges, navigate to the project directory, and then type pip install -r requirements.txt into the command prompt. 
 
 All the files and dependancies have been installed
 
